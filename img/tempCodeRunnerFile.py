@@ -1,0 +1,1 @@
+velocity_y += gavity + a
